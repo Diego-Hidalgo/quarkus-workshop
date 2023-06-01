@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\super-heroes",
+    "\\super-heroes\\rest-heroes",
+    "\\super-heroes\\rest-heroes\\src",
+    "\\super-heroes\\rest-heroes\\src\\main",
+    "\\super-heroes\\rest-heroes\\src\\main\\java",
+    "\\super-heroes\\rest-heroes\\src\\main\\java\\io",
+    "\\super-heroes\\rest-heroes\\src\\main\\java\\io\\quarkus",
+    "\\super-heroes\\rest-heroes\\src\\main\\java\\io\\quarkus\\workshop",
+    "\\super-heroes\\rest-heroes\\src\\main\\java\\io\\quarkus\\workshop\\superheroes",
+    "\\super-heroes\\rest-heroes\\src\\main\\java\\io\\quarkus\\workshop\\superheroes\\hero"
+  ],
+  "SelectedNode": "\\super-heroes\\rest-heroes\\src\\main\\java\\io\\quarkus\\workshop\\superheroes\\hero\\Hero.java",
+  "PreviewInSolutionExplorer": false
+}

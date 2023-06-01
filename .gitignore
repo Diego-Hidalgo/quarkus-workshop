@@ -1,0 +1,4 @@
+.idea/
+super-heroes/**/target/
+/super-heroes/ui-super-heroes/.quinoa
+super-heroes/ui-super-heroes/src/main/webui/node_modules
